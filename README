@@ -1,0 +1,27 @@
+Description
+-----------
+
+This is a very simple package that enables you to make a beep sound in python.
+
+Requirements
+------------
+
+-  Python 3
+-  sox
+
+Install
+-------
+
+Using pip:
+~~~~~~~~~~
+
+::
+
+    pip3 install --upgrade pybeep
+
+
+
+Usage
+-----
+
+todo
