@@ -1,5 +1,6 @@
 README
 setup.py
+pybeep/__init__.py
 pybeep/pybeep.py
 pybeep/sounds.py
 pybeep.egg-info/PKG-INFO

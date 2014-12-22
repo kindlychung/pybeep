@@ -24,4 +24,10 @@ Using pip:
 Usage
 -----
 
-todo
+::
+
+    from pybeep.pybeep import PyVibrate, PyBeep
+    PyVibrate().beep()
+    PyVibrate().beepn(3)
+    PyBeep().beep()
+    PyBeep().beepn(3)
