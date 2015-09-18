@@ -7,7 +7,9 @@ Requirements
 ------------
 
 -  Python 3
--  sox
+-  sox 
+
+(I haven't been python for a long time, but according to @Cediddi, you need to `sudo apt-get install libsox-fmt-mp3` on Ubuntu.)
 
 Install
 -------
